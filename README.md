@@ -21,7 +21,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init workevolve/frontendnuxt my-project
+$ vue init workevolve/pwa-nuxt-koa-http1 my-project
 $ cd my-project
 $ npm install
 $ npm run dev
