@@ -2,6 +2,8 @@
 
 > Progressive Web App with Vuejs running on KoaJS (alternative to express) with http version 1.x.
 
+> It supports server side render
+
 > This template is inspired by https://github.com/OrangeXC/n2ex
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
@@ -25,10 +27,7 @@ $ npm install
 $ npm run dev
 ```
 
-The development server will run on port 80 by default. If that port is already in use on your machine, the next free port will be used.
-
-## Side Noe
-For the site to work, it needs to configure the webserver to be extactly https://localhost:8443 or it won't work
+Development runs on two servers serving http on default port 80 and https on default port 443. You can the default port to your desire port in setting defined in ./server/index.js
 
 ## What's Included
 
