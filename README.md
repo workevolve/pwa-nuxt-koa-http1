@@ -1,11 +1,16 @@
-# Nuxtjs-vue-koa-boilerplate
-> Nuxt.js with KoaJS (alternative to express) run on Vue with hot-reload, lint-on-save, unit testing & css extraction.
+# pwa-nuxt-koa-http1-boilerplate
+
+> Progressive Web App with Vuejs running on KoaJS (alternative to express) with http version 1.x.
+
+> This template is inspired by https://github.com/OrangeXC/n2ex
+
+> A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
 > This template is Vue 2.0 compatible
 
 ## Documentation
 
-- [For this template](https://github.com/workevolve/frontendnuxt): common questions specific to this template are answered and each part is described in greater detail
+- [For this template](https://github.com/workevolve/pwa-nuxt-koa-http1): common questions specific to this template are answered and each part is described in greater detail
 - [For Vue 2.0](http://vuejs.org/guide/): general information about how to work with Vue, not specific to this template
 
 ## Usage
